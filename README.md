@@ -8,7 +8,7 @@ This project applies clustering and supervised ML techniques to real-world retai
 
 ## Dataset
 
-- Source: [Kaggle Open Dataset](https://www.kaggle.com/datasets)
+- Source: [Bank Customer Segmentation (1M+ Transactions)](https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation/data)
 - 1M+ transactions by 800K+ customers at an Indian bank
 - Features: Transaction & customer details, including gender, location, balance, and age
 
